@@ -6,14 +6,20 @@ This report presents findings from an analysis of the Mental Health and Social M
 With social media's growing influence on daily life, understanding its impact on mental health has become a priority for organizations and mental health practitioners. This analysis aims to:
 
 i. Examine how social media usage patterns affect mental health
+
 1i. Identify behavioral factors that predict stress, anxiety, and sleep issues
+
 iii. Develop machine learning models to predict mental health levels based on lifestyle and online habits
+
 ## 2. Data Overview
 The analysis utilized a dataset of 500 users with the following key variables:
 
 Demographics:Age, Gender
+
 Digital Habits: Daily screen time, days without social media, social media dependency
+
 Lifestyle Factors: Exercise frequency, screen-to-exercise ratio
+
 Mental Health Metrics: Stress level (1-10), sleep quality (1-10), happiness index (1-10)
 # 3. Methodology
 3.1 Analytical Approach
