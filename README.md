@@ -11,10 +11,10 @@ iii. Develop machine learning models to predict mental health levels based on li
 ## 2. Data Overview
 The analysis utilized a dataset of 500 users with the following key variables:
 
-*Demographics:* Age, Gender
-*Digital Habits:* Daily screen time, days without social media, social media dependency
-*Lifestyle Factors:* Exercise frequency, screen-to-exercise ratio
-*Mental Health Metrics:* Stress level (1-10), sleep quality (1-10), happiness index (1-10)
+Demographics:Age, Gender
+Digital Habits: Daily screen time, days without social media, social media dependency
+Lifestyle Factors: Exercise frequency, screen-to-exercise ratio
+Mental Health Metrics: Stress level (1-10), sleep quality (1-10), happiness index (1-10)
 # 3. Methodology
 3.1 Analytical Approach
 Exploratory data analysis to identify correlations and patterns
